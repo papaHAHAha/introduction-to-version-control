@@ -6,7 +6,7 @@
 ##### Chapter 6
 
 
-![photo](50.jpg)
+![photo](50.jpg) ![photoo](что-такое-фото.jpeg)
 
 > someone likes apples
 >>but also some like grapes
