@@ -3,10 +3,11 @@
 ## Chapter 3
 ## Chapter 4
 ## Chapter 5
-##### Chapter 6
+
+**_now look at the photo_**
 
 
 ![photo](50.jpg)
 
-> someone likes apples
->>but also some like grapes
+> __someone likes apples__
+>>*but also some like grapes*
