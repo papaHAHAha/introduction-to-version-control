@@ -7,7 +7,7 @@
 **_now look at the photo_**
 
 
-![photo](50.jpg)
+![photo](50.jpg) ![photoo](что-такое-фото.jpeg)
 
 > __someone likes apples__
 >>*but also some like grapes*
